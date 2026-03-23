@@ -1,0 +1,147 @@
+{
+  "analog_clocks": [
+    {
+      "id": 1,
+      "name": "Neon Purple Mist",
+      "is_premium": false,
+      "has_second_hand": false,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_1.png",
+        "dial": "clocks/dial_1.png",
+        "hour": "clocks/hour_1.png",
+        "minute": "clocks/minute_1.png",
+        "second": null
+      }
+    },
+    {
+      "id": 2,
+      "name": "Classic Neon Blue",
+      "is_premium": false,
+      "has_second_hand": false,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_2.png",
+        "dial": "clocks/dial_2.png",
+        "hour": "clocks/hour_2.png",
+        "minute": "clocks/minute_2.png",
+        "second": null
+      }
+    },
+    {
+      "id": 3,
+      "name": "Starry Galaxy",
+      "is_premium": true,
+      "has_second_hand": false,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_3.png",
+        "dial": "clocks/dial_3.png",
+        "hour": "clocks/hour_3.png",
+        "minute": "clocks/minute_3.png",
+        "second": null
+      }
+    },
+    {
+      "id": 4,
+      "name": "Neon Pink Line",
+      "is_premium": false,
+      "has_second_hand": true,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_4.png",
+        "dial": "clocks/dial_4.png",
+        "hour": "clocks/hour_4.png",
+        "minute": "clocks/minute_4.png",
+        "second": "clocks/second_4.png"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Cyber Green",
+      "is_premium": false,
+      "has_second_hand": true,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_5.png",
+        "dial": "clocks/dial_5.png",
+        "hour": "clocks/hour_5.png",
+        "minute": "clocks/minute_5.png",
+        "second": "clocks/second_5.png"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Minimalist White",
+      "is_premium": false,
+      "has_second_hand": true,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_6.png",
+        "dial": "clocks/dial_6.png",
+        "hour": "clocks/hour_6.png",
+        "minute": "clocks/minute_6.png",
+        "second": "clocks/second_6.png"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Golden Night",
+      "is_premium": true,
+      "has_second_hand": true,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_7.png",
+        "dial": "clocks/dial_7.png",
+        "hour": "clocks/hour_7.png",
+        "minute": "clocks/minute_7.png",
+        "second": "clocks/second_7.png"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Cyan Flower",
+      "is_premium": false,
+      "has_second_hand": true,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_8.png",
+        "dial": "clocks/dial_8.png",
+        "hour": "clocks/hour_8.png",
+        "minute": "clocks/minute_8.png",
+        "second": "clocks/second_8.png"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Multi-Color Circle",
+      "is_premium": true,
+      "has_second_hand": true,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_9.png",
+        "dial": "clocks/dial_9.png",
+        "hour": "clocks/hour_9.png",
+        "minute": "clocks/minute_9.png",
+        "second": "clocks/second_9.png"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Sweet Hearts",
+      "is_premium": false,
+      "has_second_hand": true,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_10.png",
+        "dial": "clocks/dial_10.png",
+        "hour": "clocks/hour_10.png",
+        "minute": "clocks/minute_10.png",
+        "second": "clocks/second_10.png"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Moonlight Star",
+      "is_premium": true,
+      "has_second_hand": true,
+      "assets": {
+        "thumbnail": "clocks/thumbnail_11.png",
+        "dial": "clocks/dial_11.png",
+        "hour": "clocks/hour_11.png",
+        "minute": "clocks/minute_11.png",
+        "second": "clocks/second_11.png"
+      }
+    }
+  ]
+}
