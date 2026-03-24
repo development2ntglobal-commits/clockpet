@@ -145,3 +145,19 @@
     }
   ]
 }
+
+{
+  "digital_clocks": [
+    {
+      "id": 101,
+      "name": "Neon Cyan Digital",
+      "style_code": "s1",
+      "is_premium": false,
+      "base_url": "https://raw.githubusercontent.com/dev2nt-ux/YOUR_REPO_NAME/main/clocks/digital/style_1/",
+      "thumb_img": "digi_s1_thumb.png",
+      "preview_img": "digi_s1_preview.png",
+      "text_color": "#00FFFF",
+      "font_name": "neon_font.ttf"
+    }
+  ]
+}
